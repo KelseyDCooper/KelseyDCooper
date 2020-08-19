@@ -5,8 +5,8 @@ I am a graduate student at Indiana University's O'Neill School of Public and Env
 You can see what I am currently up to on my [website](https://kelseydcooper.github.io)
 
 ## 📬 Get in touch
-- LinkedIn: [linkedin.com/in/kelseydcooper][2]
-- Email: [keldcoop@gmail.com][1]
+- LinkedIn: [linkedin.com/in/kelseydcooper]
+- Email: [keldcoop@gmail.com]
 
 ---
 
