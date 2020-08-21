@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/KelseyDCooper/KelseyDCooper/master/banner.png)  
 ## Hi there – I'm Kelsey Cooper👋
 
 I am a graduate student at Indiana University's O'Neill School of Public and Environmental Affairs studying Public Affairs. I am specializing in systems analysis, integration, and regulation, with a specific focus on the environmental sector. 🌎  
