@@ -1,10 +1,9 @@
-### Hi there – I'm Kelsey Cooper👋
+## Hi there – I'm Kelsey Cooper👋
 
 I am a graduate student at Indiana University's O'Neill School of Public and Environmental Affairs studying Public Affairs. I am specializing in systems analysis, integration, and regulation, with a specific focus on the environmental sector. 🌎  
 
 You can see what I am currently up to at https://kelseydcooper.github.io  
 
----
 
 ## 🔎 Looking for Opportunities 
 
