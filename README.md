@@ -12,7 +12,7 @@ I am graduating in December 2020 and currently looking for full-time public sect
 ---
 ## 📬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/kelseydcooper
-- Email: mailto:keldcoop@gmail.com
+- Email: keldcoop@gmail.com
 
 ---
 ## 🌲 Working on a fun environment project?  
