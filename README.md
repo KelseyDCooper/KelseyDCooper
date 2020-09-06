@@ -6,7 +6,7 @@ I am a graduate student at Indiana University's O'Neill School of Public and Env
 I've led projects in the federal sector for the United States Geological Survey, NASA, and most recently the U.S. Department of Defense. 
 
 ## Current Environmental Project 🍁
-My work with USGS will be published soon and analyzes the impacts of climate change on species in our national parks. You can read more about the project [here](https://necsc.umass.edu/projects/one-hundred-parks-and-counting-biodiversity-findings-and-outreach-impacts-nationwide). 🌿
+You can read more about my project with USGS and the Northeast Climate Adaptation Science Center [here](https://necsc.umass.edu/projects/one-hundred-parks-and-counting-biodiversity-findings-and-outreach-impacts-nationwide). 🌿
 
 Internationally, I have developed a new technology business process for the Netherlands Ministry of Justice and Security and have analyzed humanitarian data fror UNAIDS through Arqaam, a global monitoring and evaluation company based in Germany. 
 
