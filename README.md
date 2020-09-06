@@ -10,8 +10,8 @@ In the private sector, I have worked as a technology strategy analyst for the Of
 You can see what I am currently up to at https://kelseydcooper.github.io  or https://linkedin.com/in/kelseydcooper
 
 
-## Current Environmental Project 🍁
-You can read more about my project with USGS and the Northeast Climate Adaptation Science Center [here](https://necsc.umass.edu/projects/one-hundred-parks-and-counting-biodiversity-findings-and-outreach-impacts-nationwide). 🌿
+## 🌲 Latest Environmental Project 
+You can read more about my project with USGS and the Northeast Climate Adaptation Science Center [here](https://necsc.umass.edu/projects/one-hundred-parks-and-counting-biodiversity-findings-and-outreach-impacts-nationwide). 
 
 
 ## 🔎 Looking for Opportunities 
@@ -23,7 +23,7 @@ I am graduating in December 2020 and currently looking for full-time public sect
 - Email: keldcoop@gmail.com
 
 
-## 🌲 Working on an environmental project?  
+## 🌿 Want to collaborate? 
 
 I am always looking to help out on fun projects with passionate people. Drop me a message and let's make it happen!  
 
