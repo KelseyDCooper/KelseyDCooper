@@ -23,7 +23,7 @@ I am graduating in December 2020 and currently looking for full-time public sect
 - Email: keldcoop@gmail.com
 
 
-## 🌲 Working on a fun environment project?  
+## 🌲 Working on an environmental project?  
 
 I am always looking to help out on fun projects with passionate people. Drop me a message and let's make it happen!  
 
