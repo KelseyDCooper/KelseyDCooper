@@ -3,9 +3,13 @@
 
 I am a graduate student at Indiana University's O'Neill School of Public and Environmental Affairs studying Public Affairs. I am specializing in systems analysis, integration, and regulation, with a specific focus on the environmental sector. 🌎  
 
-I've led projects in the federal sector for the United States Geological Survey, NASA, and most recently the U.S. Department of Defense. My work with USGS will be published shortly and analyzes the impacts of climate change on species in our national parks.🍁
+I've led projects in the federal sector for the United States Geological Survey, NASA, and most recently the U.S. Department of Defense. 
 
-Internationally, I have developed a new technology business process for the Netherlands Ministry of Justice and Security and have analyzed humanitarian data fror UNAIDS through Arqaam, a global monitoring and evaluation company based in Germany. In the private sector, I have worked as a technology strategy analyst for the Office of the CIO at a biotechnology company, where I led M&A efforts through Japan's largest aquisition of a company to date.
+🍁 My work with USGS will be published soon and analyzes the impacts of climate change on species in our national parks.🍁
+
+Internationally, I have developed a new technology business process for the Netherlands Ministry of Justice and Security and have analyzed humanitarian data fror UNAIDS through Arqaam, a global monitoring and evaluation company based in Germany. 
+
+In the private sector, I have worked as a technology strategy analyst for the Office of the CIO at a biotechnology company, where I led M&A efforts through Japan's largest aquisition of a company to date.
 
 You can see what I am currently up to at https://kelseydcooper.github.io  or https://linkedin.com/in/kelseydcooper
 
