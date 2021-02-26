@@ -1,27 +1,13 @@
  
-## Hi there – I'm Kelsey Cooper👋
-
-
-I've led projects in the federal sector for the United States Geological Survey, NASA, and most recently the U.S. Department of Defense. Internationally, I have developed a new technology business process for the Netherlands Ministry of Justice and Security and have analyzed humanitarian data for UN Habitat through [Arqaam](https://www.arqaam.org/), a global monitoring and evaluation company based in Germany. 
-
-In the private sector, I have worked as a technology strategy analyst for the Office of the CIO at a biotechnology company, where I led M&A efforts through Japan's largest foreign acquisition to date. 
-
-You can see what I am currently up to at https://kelseydcooper.github.io  or https://linkedin.com/in/kelseydcooper
-
-
-## 🌲 Latest Environmental Project 
-You can read more about my project with USGS and the Northeast Climate Adaptation Science Center [here](https://necsc.umass.edu/projects/one-hundred-parks-and-counting-biodiversity-findings-and-outreach-impacts-nationwide). 
-
+## Hi there – I'm Kelsey Cooper 👋
 
 ## 📬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/kelseydcooper
-- Email: keldcoop@gmail.com
 
 
 ## 🌿 Want to collaborate? 
 
-I am always looking to help out on fun projects with passionate people. Drop me a message and let's make it happen!  
-
+Drop me a message and let's see what we can do together! 
 
 
 ✨ Have fun exploring my GitHub! ✨
